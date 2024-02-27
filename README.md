@@ -1,6 +1,6 @@
 # Pizza Menu App  
 
-- Conditional rendering with ternary operator or short circuiting since if conditions do not work on JSX.
+- Conditional rendering with ternary operator or short circuiting since if conditions are statements instead of expressions thus do not work on JSX.
 - Component creation and reusing it.
 - Props and one way data flow.
 - Rendering lists with array methods spesifically with "map".
